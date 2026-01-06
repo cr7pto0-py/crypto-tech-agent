@@ -11,3 +11,6 @@ st.write(list(df.columns))
 
 st.write("### Data Preview:")
 st.dataframe(df)
+
+st.write("### Overall Rating by Asset")
+st.bar_chart(df.set_index("symbol")["overall_rating"])
