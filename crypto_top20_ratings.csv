@@ -1,1 +1,2 @@
-
+symbol,overall_rating,confidence,macd_score,adx_score,ma_cross_score,ao_score,rsi_score,cci_score,williams_r_score,swing_index_score,confidence_score
+BTC,62.91012525024569,45.0,0.0,16.3221226559277,100.0,100.0,71.75650877397521,65.20237057206263,100.0,50.0,45.0
